@@ -3,33 +3,33 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Currency Converter",
+    title: "FatafatBazaar – AI-Powered Local Commerce Platform",
     description:
-      "A responsive currency converter using HTML, CSS, and JavaScript with real-time exchange rate API integration and intuitive UI.",
-    image: "/projects/currency-converter.png",
-    tags: ["HTML", "CSS", "JavaScript", "API"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/SnehaChauhan733/Project1/tree/main/Currency%20Converter",
+      "A full-stack quick-commerce platform, featuring an AI customer assistant, smart cart handling, authentication-based checkout, and scalable deployment on Vercel.",
+    image: "/projects/logo.png",
+    tags: ["HTML", "CSS", "JavaScript","ReactJs","Nodejs","Firebase", "API"],
+    demoUrl: "https://fatafat-bazaar.vercel.app/",
+    githubUrl: "https://github.com/SnehaChauhan733/FatafatBazaar",
   },
   {
     id: 2,
-    title: "Rock Paper Scissors Game",
+    title: "Document Assistant – AI-Powered Smart Document Intelligence Tool",
     description:
-      "An interactive browser-based game simulating Rock, Paper, Scissors with randomized computer moves and score tracking.",
-    image: "/projects/rock-paper-scissors.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/SnehaChauhan733/Project1",
+      "An AI-powered document assistant that allows users to upload documents and intelligently ask questions, generate summaries, extract key insights, and interact with content using natural language.",
+    image: "/projects/Document-Assistant.png",
+    tags: ["Python", "Langchain", "OpenAI", "Reactjs", "RAG", "Vector database"],
+    demoUrl: "https://document-rag-assistant.vercel.app/",
+    githubUrl: "https://github.com/SnehaChauhan733/Document-Assistant",
   },
   {
     id: 3,
-    title: "Spotify Clone",
+    title: "HealSpace – Mental Health Support Platform",
     description:
-      "A Spotify-inspired music player app featuring playback, playlist creation, and search, built using HTML, CSS, and JavaScript.",
-    image: "/projects/spotify.png",
-    tags: ["HTML", "CSS", "JavaScript"],
+      "A mental health support platform that provides users with educational resources, guided exercises, and consultant booking to support anxiety, depression, and overall mental well-being.",
+    image: "/projects/Docter.png",
+    tags: ["HTML", "CSS", "JavaScript", "Reactjs"],
     demoUrl: "#",
-    githubUrl: "https://github.com/SnehaChauhan733/SpotifyClone",
+    githubUrl: "https://github.com/SnehaChauhan733/Mental-health-website/tree/main/src",
   },
 ];
 
