@@ -26,7 +26,7 @@ const projects = [
     title: "HealSpace – Mental Health Support Platform",
     description:
       "A mental health support platform that provides users with educational resources, guided exercises, and consultant booking to support anxiety, depression, and overall mental well-being.",
-    image: "/projects/Docter.png",
+    image: "/projects/Docter.jpeg",
     tags: ["HTML", "CSS", "JavaScript", "Reactjs"],
     demoUrl: "#",
     githubUrl: "https://github.com/SnehaChauhan733/Mental-health-website/tree/main/src",
